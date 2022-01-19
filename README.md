@@ -1,8 +1,10 @@
 <h1 align="center"> <a href="#"><img width="50%" height="auto" src="https://assets.rbl.ms/25591710/origin.jpg" height="175px"/></a></h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankush</h1>
-<h2 align="center">I'm a Passionate Full Stack Developer from India.</h2>
 
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankush</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%339333F7&vCenter=true&lines=A+Fanatical+ML+Tyro)](https://git.io/typing-svg)
 
 ## 🙋‍♂️ About Me
 

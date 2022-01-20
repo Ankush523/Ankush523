@@ -37,15 +37,15 @@
 
 <p align="center">
     <a href="https://github.com/Ankush523/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush523&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush523&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-  <a href="https://github.com/Ankush523/github-readme-stats"><img alt="Ankush Dutta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ankush523&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ankush523/github-readme-stats"><img alt="Ankush Dutta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush523&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ankush523/github-readme-stats"><img alt="Ankush Dutta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ankush523&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ankush523/github-readme-stats"><img alt="Ankush Dutta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush523&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Ankush523/github-readme-activity-graph"><img alt="Ankush Dutta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ankush523&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ankush523/github-readme-activity-graph"><img alt="Ankush Dutta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ankush523&hide_border=true&theme=redical" /></a>
 
 <br/>
 <br/>

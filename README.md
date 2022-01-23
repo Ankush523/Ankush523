@@ -53,7 +53,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Ankush523/github-readme-activity-graph"><img alt="Ankush Dutta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ankush523&hide_border=true&theme=redical" /></a>
+<a href="https://github.com/Ankush523/github-readme-activity-graph"><img alt="Ankush Dutta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ankush523&hide_border=true&theme=default" /></a>
 
 <br/>
 <br/>

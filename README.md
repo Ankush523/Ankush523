@@ -41,7 +41,7 @@
   
   |🎯 Github Streaks and Trophies 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-[![Ankush523's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Ankush523&theme=midnight-purple&hide_border=true)](https://github.com/Ankush523)|[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankush523&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/Ankush523)|[![Trophies](https://github-profile-trophy.vercel.app/?username=Ankush523&theme=juicyfresh&margin-w=0&no-frame=false)](https://github.com/Ankush523)
+[![Ankush523's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Ankush523&theme=radical&hide_border=false)](https://github.com/Ankush523)|[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankush523&show_icons=true&theme=radical&hide_border=false)](https://github.com/Ankush523)|[![Trophies](https://github-profile-trophy.vercel.app/?username=Ankush523&theme=juicyfresh&margin-w=0&no-frame=false)](https://github.com/Ankush523)
 
 <br/>
 

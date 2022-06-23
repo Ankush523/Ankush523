@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankush</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%339333F7&vCenter=true&lines=A+Fanatical+ML+Tyro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%339333F7&vCenter=true&lines=)](https://git.io/typing-svg)
 
 ## 🙋‍♂️ About Me
 

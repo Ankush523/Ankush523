@@ -1,38 +1,41 @@
-<h1 align="center"> <a href="#"><img width="50%" height="auto" src="https://assets.rbl.ms/25591710/origin.jpg" height="175px"/></a></h1>
+<h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" height="175px"/></a></h1>
 
 
+<h1 align="center">Hi 👋, I'm Ankush Dutta</h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankush</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%339333F7&vCenter=true&lines=)](https://git.io/typing-svg)
+<h3>Profile Visits</h3>
+
+
+![Visitor Count](https://profile-counter.glitch.me/Ankush523/count.svg)
+
+
 
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently learning ** Solidity **
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 💬 Ask me about ** Blockchain **
 
-- 📫 How to reach me **ankush.ad050203@gmail.com**
+- ⚡ Fun fact: I love to sleep!!
 
-- ⚡ Fun fact **I love to sleep.**
+- 📫 How to reach me ** ankush.ad050203gmail.com **
 
 <br/>
 
-## 🚀 Languages and Tools
+<h3 align="center">Languages and Tools:</h3>
 
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/> </a> 
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a> 
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a> 
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://aws.amazon.com/certification/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a> 
-    
-</p>
-
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br/>
 
 ## 📊 My Github Stats

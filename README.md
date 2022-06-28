@@ -56,20 +56,4 @@
 
 <br/>
 <br/>
-
-<a href="https://github.com/Ankush523/github-readme-activity-graph"><img alt="Ankush Dutta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ankush523&hide_border=true&theme=default" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/ankush-dutta-920b5b202/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/AnkushD21079583"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/cubed_ankush/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
 </p>
-
-## Followers
-<a href="https://github.com/Ankush523?tab=followers"><img src="https://img.shields.io/github/followers/Ankush523?label=Followers&style=social" alt="GitHub Badge"></a>

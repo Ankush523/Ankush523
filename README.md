@@ -19,7 +19,7 @@
 
 - 💬 Ask me about ** Blockchain **
 
-- ⚡ Fun fact: I love to sleep!!
+- ⚡ Fun fact: I love to Sleep!!
 
 - 📫 How to reach me ** ankush.ad050203gmail.com **
 

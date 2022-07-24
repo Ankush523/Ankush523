@@ -56,11 +56,18 @@
   
   |🎯 Github Streaks and Trophies 🏆| 🏆 Github Stats 🔭|
 |----------------------------------|----------------------------|
-[![Ankush523's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Ankush523&theme=radical&hide_border=false)](https://github.com/Ankush523)|[![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankush523&show_icons=true&theme=radical&hide_border=false)](https://github.com/Ankush523)|[![Trophies](https://github-profile-trophy.vercel.app/?username=Ankush523&theme=juicyfresh&margin-w=0&no-frame=false)](https://github.com/Ankush523)
+[![Ankush523's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Ankush523&theme=radical&hide_border=false)](https://github.com/Ankush523)| [![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankush523&show_icons=true&theme=radical&hide_title=true)](https://github.com/Ankush523)|
 
 <br/>
 
- <a href="https://github.com/Ankush523/github-readme-stats"><img alt="Ankush Dutta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush523&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+
+|🎯 Most used languages 🏆| 
+|----------------------------------|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush523&theme=radical&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) | 
+
+|  Contribution Stats  |
+|----------------------|
+| ![](./profile-3d-contrib/profile-night-view.svg) |
 
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

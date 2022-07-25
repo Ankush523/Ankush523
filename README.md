@@ -65,9 +65,6 @@
 |----------------------------------|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush523&theme=radical&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) | 
 
-|  Contribution Stats  |
-|----------------------|
-| ![](./profile-3d-contrib/profile-night-rainbow.svg) |
 
   
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

@@ -71,7 +71,7 @@
 
 |🎯 Most used languages 🏆| 
 |----------------------------------|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush523&theme=radical&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) | 
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush523&theme=radical&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats) |
 
 
   

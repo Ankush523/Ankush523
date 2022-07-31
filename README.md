@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" height="175px"/></a></h1>
+<h1 align="center"> <a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" height="200px"/></a></h1>
 
 
 <h1 align="center">Hi 👋, I'm Ankush Dutta</h1>

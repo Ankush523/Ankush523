@@ -72,7 +72,7 @@
 
 |🎯 Most used languages 🏆| 
 |----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush523&show_icons=true&theme=pink&layout=compact&hide_title=true)](https://github.com/Ankush523)|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush523&show_icons=true&theme=radical&layout=compact&hide_title=true)](https://github.com/Ankush523)|
 
 
 

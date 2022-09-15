@@ -14,8 +14,6 @@
 |-----------|---------|---------|
 | [SuperStream](https://github.com/Ankush523/SuperStream) | Top 15 Projects at Data Science Hack'22 | Streaming Recurring Payments |
 
-## 🙋‍♂️ About Me
-
 
 - 🌱 I’m currently learning ** Solidity **
 

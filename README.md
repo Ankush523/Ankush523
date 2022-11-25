@@ -10,7 +10,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Ankush523/count.svg)
 
-|  Projects|Hackathons|Description|
+|Projects|Hackathons|Description|
 |-----------|---------|---------|
 | [SuperStream](https://github.com/Ankush523/SuperStream) | Top 15 Projects at Data Science Hack'22 | Streaming Recurring Payments |
 

@@ -13,7 +13,7 @@
 |Projects|Hackathons|Description|
 |-----------|---------|---------|
 | [SuperStream](https://github.com/Ankush523/SuperStream) | Top 15 Projects at Data Science Hack'22 | Streaming Recurring Payments |
-| [AsapFI](https://github.com/Ankush523/asapfi) | ENS Prize Pool at ETHIndia'22 | Smart Contract Wallet with Account Abstraction |
+| [AsapFI](https://github.com/Ankush523/asapfi) | ENS Pool Prize at ETHIndia'22 | Smart Contract Wallet with Account Abstraction |
 
 
 - 🌱 I’m currently learning ** Solidity **

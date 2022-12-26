@@ -16,7 +16,7 @@
 | [AsapFI](https://github.com/Ankush523/asapfi) | ENS Pool Prize at ETHIndia'22 | Smart Contract Wallet with Account Abstraction |
 
 
-- 🌱 I’m currently learning ** Solidity **
+- 🌱 I’m currently learning ** TypeScript and GraphQL **
 
 - 💬 Ask me about ** Blockchain **
 

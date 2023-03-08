@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ankush Dutta</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%239333F7&vCenter=true&lines=A+Passionate+Blockchain+Developer;)](https://git.io/typing-svg)
+<h2 align = "center"> Fullstack web3 Developer | Dev @Bytekode <h2/>
 
 <h3>Profile Visits</h3>
 

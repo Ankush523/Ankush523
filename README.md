@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ankush Dutta</h1>
 
-<h2 align = "center"> Fullstack web3 Developer | Dev @MerokuDAO <h2/>
+<h2 align = "center"> Fullstack web3 Developer <h2/>
 
 <h3>Profile Visits</h3>
 

@@ -3,12 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ankush Dutta</h1>
 
-<h2 align = "center"> Fullstack web3 Developer <h2/>
-
-<h3>Profile Visits</h3>
-
-
-![Visitor Count](https://profile-counter.glitch.me/Ankush523/count.svg)
+<h2 align = "center"> Full Stack Engineer <h2/>
 
 |Projects|Hackathons|Description|
 |-----------|---------|---------|
@@ -16,7 +11,7 @@
 | [AsapFI](https://github.com/Ankush523/asapfi) | ENS Pool Prize at ETHIndia'22 | Smart Contract Wallet with Account Abstraction |
 | [Found3d](https://github.com/Ankush523/found3d) | SuperFluid Pool Prize at ETHforAll'23 | Realtime streaming/disbursements of funds/grants to indie project developers |
 
-- 🌱 I’m currently learning ** TypeScript and GraphQL **
+- 🌱 I’m currently learning ** TypeScript and Swift **
 
 - 💬 Ask me about ** Blockchain **
 

@@ -3,7 +3,12 @@
 
 <h1 align="center">Hi 👋, I'm Ankush Dutta</h1>
 
-<h2 align = "center"> Full Stack Engineer <h2/>
+<h2 align = "center"> Fullstack web3 Developer <h2/>
+
+<h3>Profile Visits</h3>
+
+
+![Visitor Count](https://profile-counter.glitch.me/Ankush523/count.svg)
 
 |Projects|Hackathons|Description|
 |-----------|---------|---------|

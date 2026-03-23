@@ -5,10 +5,7 @@
 
 <h2 align = "center"> Fullstack Engineer @ Offline Protocol <h2/>
 
-<h3>Profile Visits</h3>
-
-
-![Visitor Count](https://profile-counter.glitch.me/Ankush523/count.svg)
+<h3>Projects</h3>
 
 |Projects|Hackathons|Description|
 |-----------|---------|---------|

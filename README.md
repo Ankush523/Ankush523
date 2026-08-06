@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankush Dutta</h1>
 
-<h2 align = "center"> Full Stack Engineer @ Offline Protocol <h2/> 
+<h2 align = "center"> Senior Full Stack Engineer @ Offline Protocol <h2/> 
 
 <p align="center"> <a href="#"><img width="20%" height="auto" src="https://cdn.dribbble.com/users/420183/screenshots/2875637/octocat_github.gif" height="175px"/></a></p>
 

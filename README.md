@@ -12,7 +12,7 @@
 </p> 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools : </h3>
 
 
   [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)

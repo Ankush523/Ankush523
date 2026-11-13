@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ankush-dutta-920b5b202/" target="blank"><img align="center" src="https://img.shields.io/badge/Ankush-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Ankush"  /></a>
   <a href="https://twitter.com/Ankush_523" target="blank"><img align="center" src="https://img.shields.io/badge/Ankush523-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Ankush"  /></a>
-  <a href="https://www.instagram.com/_.ankush05._/" target="blank"><img align="center" src="https://img.shields.io/badge/_.ankush05._-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_.ankush05._"  /></a>
+  <a href="https://www.instagram.com/_ankush523_/" target="blank"><img align="center" src="https://img.shields.io/badge/_.ankush05._-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="_ankush523_"  /></a>
 </p> 
    
 
